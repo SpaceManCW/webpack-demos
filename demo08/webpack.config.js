@@ -16,3 +16,8 @@ module.exports = {
     })
   ]
 };
+
+/**
+ * html-webpack-plugin: 这个插件可以生成html
+ * open-browser-webpack-plugin: 这个插件可以在webpack构建完成时自动打开指定的url
+ */
